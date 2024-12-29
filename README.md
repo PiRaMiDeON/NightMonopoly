@@ -22,13 +22,13 @@
 ## Скриншоты игры
 
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/NightMonopoly/blob/main/Imgs/Screenshot1.jpg' height=220>
+      <img src='https://github.com/PiRaMiDeON/NightMonopoly/blob/main/Imgs/Screenshot1.jpg' width=440>
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/NightMonopoly/blob/main/Imgs/Screenshot2.jpg' height=220> 
+      <img src='https://github.com/PiRaMiDeON/NightMonopoly/blob/main/Imgs/Screenshot2.jpg' width=440> 
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/NightMonopoly/blob/main/Imgs/Screenshot3.jpg' height=220>
+      <img src='https://github.com/PiRaMiDeON/NightMonopoly/blob/main/Imgs/Screenshot3.jpg' width=440>
 </p>
 
 ## Используемые технологии
